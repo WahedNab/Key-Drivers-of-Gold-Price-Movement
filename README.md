@@ -4,8 +4,8 @@ Analysis of gold price movements (Up vs Down) using association, classification,
 
 ## Files (will be updated)
 
-- `classification_gold.R` – R script for Random Forest, SVM, and Naive Bayes classification with SMOTE.
-- `association_rules.R` – R script for Apriori, FP-Growth, and ECLAT association rule mining.
+- `classification.R` – R script for Random Forest, SVM, and Naive Bayes classification with SMOTE.
+- `association_code.R` – R script for Apriori, FP-Growth, and ECLAT association rule mining.
 - `Presentation_Gold_Project.pptx` – Slides for the final project presentation.
 - `gold_price_dataset_preprocessed.csv` – Preprocessed dataset used in the analysis (if included).
 
