@@ -14,8 +14,9 @@ Analysis of gold price movements (Up vs Down) using association, classification,
 ## How to Run
 
 1. Open R or RStudio.
-2. Run `classification_gold.R` to reproduce classification metrics and plots.
-3. Run `association_rules.R` to reproduce association rule mining and heatmaps.
+2. Place the dataset and the scripts in the same folder and set your R repository to the same folder.
+3. Run each R script and wait for your processor to finish the task.
+4. Look at the results and analyze them. 
 
 ## Author
 
