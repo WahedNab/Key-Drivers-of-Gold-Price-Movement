@@ -14,9 +14,10 @@ Analysis of gold price movements (Up vs Down) using association, classification,
 ## How to Run
 
 1. Open R or RStudio.
-2. Place the dataset and the scripts in the same folder and set your R repository to the same folder.
-3. Run each R script and wait for your processor to finish the task.
-4. Look at the results and analyze them. 
+2. Install the required packages. 
+3. Place the dataset and the scripts in the same folder and set your R repository to the same folder.
+4. Run each R script and wait for your processor to finish the task.
+5. Look at the results and analyze them. 
 
 ## Author
 
